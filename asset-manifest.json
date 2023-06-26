@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Gotham/static/css/main.c5e89942.css",
+    "main.js": "/Gotham/static/js/main.e5ab15e0.js",
+    "static/media/cocktail.mp4": "/Gotham/static/media/cocktail.43022cb1977fc89d1609.mp4",
+    "static/media/bg.png": "/Gotham/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/menu.jpg": "/Gotham/static/media/menu.9f924f76e6092a60435b.jpg",
+    "static/media/gallery05.jpg": "/Gotham/static/media/gallery05.33db042d6c0ef1d8bf27.jpg",
+    "static/media/gallery08.jpg": "/Gotham/static/media/gallery08.1927b8123e7899b2d39d.jpg",
+    "static/media/gallery10.jpg": "/Gotham/static/media/gallery10.3c8a377ece1ffa8e1a33.jpg",
+    "static/media/findus.png": "/Gotham/static/media/findus.585c393ccd3671513743.png",
+    "static/media/gallery12.jpg": "/Gotham/static/media/gallery12.2e7f1c3f6766364df86d.jpg",
+    "static/media/gallery11.jpg": "/Gotham/static/media/gallery11.9bdacce0c24a046c1d6c.jpg",
+    "static/media/laurels.jpg": "/Gotham/static/media/laurels.bc662bbedd230a1d5a5c.jpg",
+    "static/media/chef.jpg": "/Gotham/static/media/chef.4700b2015e034c84d96c.jpg",
+    "static/media/gallery07.jpg": "/Gotham/static/media/gallery07.ef78e32b61cea27fa35e.jpg",
+    "static/media/gallery09.jpg": "/Gotham/static/media/gallery09.6afa4f102b290eabee2a.jpg",
+    "static/media/gallery03.jpg": "/Gotham/static/media/gallery03.9d01f0268b531e610439.jpg",
+    "static/media/gallery06.jpg": "/Gotham/static/media/gallery06.28c87451f0c697354e1a.jpg",
+    "static/media/gallery04.jpg": "/Gotham/static/media/gallery04.ef30e86abe8db9801aeb.jpg",
+    "static/media/gallery02.jpg": "/Gotham/static/media/gallery02.bb1114e85040ed4921a8.jpg",
+    "static/media/overlaybg.png": "/Gotham/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/gallery01.jpg": "/Gotham/static/media/gallery01.240312a531e07ed7dbfc.jpg",
+    "static/media/welcome.png": "/Gotham/static/media/welcome.4f7bdfbf38741f3db706.png",
+    "static/media/largespoon.png": "/Gotham/static/media/largespoon.1834d7496aaa174df697.png",
+    "static/media/G.png": "/Gotham/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/gotham.png": "/Gotham/static/media/gotham.e2dcb7e76c53dd99b704.png",
+    "static/media/award02.png": "/Gotham/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/Gotham/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/Gotham/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/Gotham/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/Gotham/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "static/media/spoon.svg": "/Gotham/static/media/spoon.b5681c867bb867d794693513d048401f.svg",
+    "index.html": "/Gotham/index.html",
+    "main.c5e89942.css.map": "/Gotham/static/css/main.c5e89942.css.map",
+    "main.e5ab15e0.js.map": "/Gotham/static/js/main.e5ab15e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5e89942.css",
+    "static/js/main.e5ab15e0.js"
+  ]
+}
